@@ -1,0 +1,43 @@
+.dark{
+    background-color: #18121e;
+}
+.card{
+    background-color: #efefef;
+    width: 50vh;
+    height: 50vh;
+    margin: 15vh auto;
+    border-radius: 40px;
+}
+.card-dark{
+    background-color: #984b43;
+    width: 50vh;
+    height: 50vh;
+    margin: 15vh auto;
+    border-radius: 40px;
+}
+.card--titulo{
+    text-align: center;
+    font-size: xx-large;
+    width: 50vh;
+    height: 15vh;
+    color: #a9a9a9;
+}
+.card--titulo-dark{
+    text-align: center;
+    font-size: xx-large;
+    width: 50vh;
+    height: 15vh;
+    color: #a9a9a9;
+}
+.card--conteudo{
+    text-align: center;
+    font-size: large;
+    color: #b4af83;
+    margin: 0 auto;
+}
+.card--conteudo-dark{
+    text-align: center;
+    font-size: large;
+    color: #ab987a;
+    margin: 0 auto;
+}
